@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: org.example.test.micronaut.jsonstream
+---
+testFramework: spek
+sourceLanguage: kotlin
